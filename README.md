@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **hsstudentwork@gmail.com**
 
-- Country 🇧🇷 
+- 🇧🇷 I live in **Brazil**
  
 ![View Status](https://komarev.com/ghpvc/?username=HenriqueSSan&label=PROFILE+VIEWS&style=for-the-badge&color=ab059a)
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-santos-santana/)
