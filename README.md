@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Henrique Santos Santana</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50">, I am Henrique Santos Santana</h1>
 
 - 🌱 I’m currently learning **Bootstrap,Reactjs,JavaScript,Nodejs**
 
