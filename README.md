@@ -7,7 +7,7 @@ About me a dedicated person as a Front-end Developer, I like Games, Music, Anime
 
 - 🌱 I’m currently learning **Bootstrap,Reactjs,Nodejs,JQuery**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Git**
+- 💬 Ask me about **HTML, CSS,JavaScript,Git**
 
 - 📫 How to reach me **hsstudentwork@gmail.com**
 
