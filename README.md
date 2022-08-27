@@ -5,9 +5,9 @@
 About me a dedicated person as a Front-end Developer, I like Games, Music, Anime, I sometimes have anxiety and insecurity but I can contain myself , and improve, about development, I really like the front-end environment and the languages JavaScript,Python,PHP, I learned a lot from developers and technology teachers and my thanks to them for helping me get into the programming world
 
 
-- 🌱 I’m currently learning **Bootstrap,Reactjs,Nodejs,JQuery**
+- 🌱 I’m currently learning **Bootstrap,Nodejs,JQuery**
 
-- 💬 Ask me about **HTML, CSS,JavaScript,Git**
+- 💬 Ask me about **HTML, CSS,JavaScript,Git,Reactjs,**
 
 - 📫 How to reach me **hsstudentwork@gmail.com**
 
