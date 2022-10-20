@@ -13,8 +13,6 @@ About me a dedicated person as a Front-end Developer, I like Games, Music, Anime
 
 - 🇧🇷 I live in **Brazil**
 
-- **My** [**Portfolio**](https://henrique-santos-portfolio.netlify.app)
-
 <br>
 <br>
 
