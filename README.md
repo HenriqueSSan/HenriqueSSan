@@ -17,7 +17,6 @@ About me a dedicated person as a Front-end Developer, I like Games, Music, Anime
 <br>
 
 
-![View Status](https://komarev.com/ghpvc/?username=HenriqueSSan&label=PROFILE+VIEWS&style=for-the-badge&color=ab059a)
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-santos-santana/)
 [![Whatsapp](https://img.shields.io/badge/-WHATSAPP-59CE72?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511993955935)
 
@@ -41,7 +40,5 @@ About me a dedicated person as a Front-end Developer, I like Games, Music, Anime
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=HenriqueSSan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSSan&layout=compact&langs_count=7&theme=dracula">
-</div>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=HenriqueSSan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSSan&layout=compact&langs_count=9&theme=radical">
