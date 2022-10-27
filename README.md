@@ -1,21 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50">, I am Henrique Santos Santana</h1>
 
-### About me 
-
-About me a dedicated person as a Front-end Developer, I like Games, Music, Anime, I sometimes have anxiety and insecurity but I can contain myself , and improve, about development, I really like the front-end environment and the languages JavaScript,Python,PHP, I learned a lot from developers and technology teachers and my thanks to them for helping me get into the programming world
+📫 How to reach me **hsstudentwork@gmail.com**
 
 
-- 🌱 I’m currently learning **Bootstrap,Nodejs,JQuery**
-
-- 💬 Ask me about **HTML, CSS,JavaScript,Git,Reactjs,**
-
-- 📫 How to reach me **hsstudentwork@gmail.com**
-
-- 🇧🇷 I live in **Brazil**
-
-<br>
-<br>
-
+</br>
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-santos-santana/)
 
