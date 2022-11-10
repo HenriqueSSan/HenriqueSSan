@@ -1,13 +1,7 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50">, I am Henrique Santos Santana</h1>
-
-📫 How to reach me **hsstudentwork@gmail.com**
+# Hi, I'm Henrique Santos Santana
 
 
-</br>
-
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-santos-santana/)
-
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Front-end
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique Santos Santana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,11 +13,21 @@
   <img align="center" alt="Henrique Santos Santana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Henrique Santos Santana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Henrique Santos Santana-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+</div>
+
+<br>
+
+## 🛠 &nbsp;Tools
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Henrique Santos Santana-Webpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
   <img align="center" alt="Henrique Santos Santana-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Henrique Santos Santana-Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Henrique Santos Santana-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Henrique Santos Santana-Vite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
 </div>
+
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
