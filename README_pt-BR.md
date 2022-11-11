@@ -55,7 +55,7 @@ _**Abaixo estão as ferramentas que utilizo para trabalhar**_
 <table height="495px" width="100%">
   <tr>
     <td>
-    <a href="https://github.com/HenriqueSSan/toggle-color" target="_blank">
+    <a href="https://github.com/HenriqueSSan/toggle-colors" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=toggle-colors&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff">
     </a>
     </td>
@@ -67,7 +67,7 @@ _**Abaixo estão as ferramentas que utilizo para trabalhar**_
   </tr>
   <tr>
     <td>
-     <a href="https://github.com/desenvjonathan/responsive03" target="_blank">
+     <a href="https://github.com/HenriqueSSan/responsive-gym-website" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=responsive-gym-website&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff">
     </a>
     </td>
