@@ -10,10 +10,7 @@
 
 - 🌱 Aprendendo: Gulp, Redux, GraphQL
 - 🎯 Frase motivadora: "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo." - Desconhecido
-- 📚 Pergunte para mim sobre: HTML, CSS, JavaScript, React
-- 🆘 Canais Ajuda:
-  - Discord: /[*]()Henrique Santos Santana[*]()/#5066
-  - Linkedin: [Chamar](https://linkedin.com/in/henrique-santos-santana)
+- 📚 Pergunte para mim sobre: HTML, CSS, JavaScript, React.
 
 <br>
 <br>
@@ -53,17 +50,15 @@ _**Abaixo estão as ferramentas que utilizo para trabalhar**_
 <br>
 
 
-<h2 align="center">👨🏻‍💻&ensp; <i>Projetos e Trabalhos</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./kame-camp.png" height="495px" width="365px" alt="projects image">
-<table height="495px" width="365px">
+## 👨🏻‍💻&ensp; _Projetos e Trabalhos_ &ensp;👨🏻‍💻
+
+<table height="495px" width="100%">
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/desenvjonathan" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=toggle-colors&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
     </a>
     </td>
-  </tr>
-  <tr>
     <td>
     <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=mini-portfolio&theme=tokyonight&hide_border=true">
@@ -141,12 +136,16 @@ _**Abaixo estão as ferramentas que utilizo para trabalhar**_
     </td>
   </tr>
 </table>
-<br>
 
 ## ⚙️ &nbsp;Analize do Github
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=HenriqueSSan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSSan&layout=compact&langs_count=9&theme=radical">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HenriqueSSan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSSan&layout=compact&langs_count=9&theme=radical">
+
+
+## Contato
+  
+  
 
 
 ## Traduções
