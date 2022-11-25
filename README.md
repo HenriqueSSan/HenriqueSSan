@@ -1,7 +1,23 @@
 # Hi, I'm Henrique Santos Santana
 
+- I'm a developer with almost 1 year of experience on the front end;
+- You are invited to know my projects and personal work, feel free;
+- I like technology, innovation, electronics and music.
 
-## 🛠 &nbsp;Front-end
+<br>
+
+## My day to day
+
+- 🌱 Learning: Gulp, Redux, GraphQL
+- 🎯 Motivating phrase: "Success is going from failure to failure without losing enthusiasm." - Unknown 
+- 📚 Ask me about: HTML, CSS, JavaScript, React.
+
+<br>
+<br>
+
+_**Below are the technologies I use**_
+
+### 🛠 &nbsp;Front-end technologies
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique Santos Santana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,8 +32,12 @@
 </div>
 
 <br>
+<br>
+<br>
 
-## 🛠 &nbsp;Tools
+_**Below are the tools, I use for the job**_
+
+## 🛠 &nbsp; Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique Santos Santana-Webpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
@@ -29,7 +49,45 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=HenriqueSSan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSSan&layout=compact&langs_count=9&theme=radical">
+## 👨🏻‍💻&ensp; Projetcs and Works &ensp;👨🏻‍💻
+
+<table height="495px" width="100%">
+  <tr>
+    <td>
+    <a href="https://github.com/HenriqueSSan/toggle-colors" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=toggle-colors&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff">
+    </a>
+    </td>
+    <td>
+    <a href="https://github.com/HenriqueSSan/amazing-landing-page-feature" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=amazing-landing-page-feature&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <a href="https://github.com/HenriqueSSan/responsive-gym-website" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=responsive-gym-website&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff">
+    </a>
+    </td>
+  </tr>
+</table>
+
+## ⚙️ &nbsp;Github Statistics
+
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HenriqueSSan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSSan&layout=compact&langs_count=9&theme=radical">
+
+## Contact
+
+Click for do contact:
+
+
+[![Linkdin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-santos-santana)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsstudentwork@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-738adb?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/911766406893281310)
+
+## Translations
+
+[English](https://github.com/HenriqueSSan/HenriqueSSan) / [PT-BR](https://github.com/HenriqueSSan/HenriqueSSan/blob/main/README_pt-BR.md)
