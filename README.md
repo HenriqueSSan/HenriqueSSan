@@ -1,3 +1,5 @@
+[English](https://github.com/HenriqueSSan/HenriqueSSan) / [PT-BR](https://github.com/HenriqueSSan/HenriqueSSan/blob/main/README_pt-BR.md)
+
 # Hi, I'm Henrique Santos Santana
 
 - I'm a developer with almost 1 year of experience on the front end;
