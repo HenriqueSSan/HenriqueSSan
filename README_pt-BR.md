@@ -54,9 +54,8 @@ _**Abaixo estão as ferramentas que utilizo para trabalhar**_
 
 |                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[![Toggle Colors](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=toggle-colors&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/toggle-colors)                                             |[![Amazing Landing page feature](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=amazing-landing-page-feature&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/amazing-landing-page-feature)|
+|[![Jordan Shoes](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=jordanshoes&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/jordanshoes)                                        |
 |[![Responsive Gym Website](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=responsive-gym-website&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/responsive-gym-website)                  ||
-
 
 ## ⚙️ &nbsp;Analize do Github
 
