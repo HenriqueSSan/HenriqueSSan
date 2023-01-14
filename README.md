@@ -1,4 +1,6 @@
-<img width="90" src="./logo.svg"/>
+<div align="right"> 
+    <img width="90" src="./logo.svg"/>
+</div>
 
 [English](https://github.com/HenriqueSSan/HenriqueSSan) / [PT-BR](https://github.com/HenriqueSSan/HenriqueSSan/blob/main/README_pt-BR.md)
 
