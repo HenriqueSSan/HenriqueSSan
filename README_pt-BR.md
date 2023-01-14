@@ -1,4 +1,6 @@
-<img width="90" src="./logo.svg"/>
+<div align="right"> 
+    <img width="90" src="./logo.svg"/>
+</div>
 
 # Oi, eu sou o Henrique Santos Santana
 
