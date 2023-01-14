@@ -1,3 +1,5 @@
+<img width="90" src="./logo.svg"/>
+
 [English](https://github.com/HenriqueSSan/HenriqueSSan) / [PT-BR](https://github.com/HenriqueSSan/HenriqueSSan/blob/main/README_pt-BR.md)
 
 # Hi, I'm Henrique Santos Santana
@@ -11,7 +13,7 @@
 ## My day to day
 
 - 🌱 Learning: Redux, GraphQL, VTEX CMS, VTEX
-- 🎯 Motivating phrase: "Success is going from failure to failure without losing enthusiasm." - Unknown 
+- 🎯 Motivating phrase: "Success is going from failure to failure without losing enthusiasm." - Unknown
 - 📚 Ask me about: HTML, CSS, JavaScript, React.
 
 <br>
@@ -20,7 +22,7 @@
 _**Below are the technologies I use**_
 
 ### 🛠 &nbsp;Front-end technologies
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique Santos Santana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henrique Santos Santana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -52,14 +54,12 @@ _**Below are the tools, I use for the job**_
 <br>
 <br>
 
-
 ## 👨🏻‍💻&ensp; Projetcs and Works &ensp;👨🏻‍💻
 
-|                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                 |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[![Jordan Shoes](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=jordanshoes&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/jordanshoes)                                        |
-|[![Responsive Gym Website](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=responsive-gym-website&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/responsive-gym-website)                  ||
-
+|                                                                                                                                                                                                                                                 |     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [![Jordan Shoes](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=jordanshoes&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/jordanshoes)                                 |
+| [![Responsive Gym Website](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=responsive-gym-website&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/responsive-gym-website) |     |
 
 ## ⚙️ &nbsp;Github Statistics
 
@@ -69,7 +69,6 @@ _**Below are the tools, I use for the job**_
 ## Contact
 
 Click for do contact:
-
 
 [![Linkdin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-santos-santana)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsstudentwork@gmail.com)

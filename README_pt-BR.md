@@ -1,3 +1,5 @@
+<img width="90" src="./logo.svg"/>
+
 # Oi, eu sou o Henrique Santos Santana
 
 - Eu sou um desenvolvedor com quase 1 ano de experiência no front-end.
@@ -18,7 +20,7 @@
 _**Abaixo estão as tecnologias que uso ou já usei**_
 
 ### 🛠 &nbsp;Tecnologias do Front-end
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique Santos Santana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henrique Santos Santana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -49,13 +51,12 @@ _**Abaixo estão as ferramentas que utilizo para trabalhar**_
 
 <br>
 
-
 ## 👨🏻‍💻&ensp; Projetos e Trabalhos &ensp;👨🏻‍💻
 
-|                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                 |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[![Jordan Shoes](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=jordanshoes&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/jordanshoes)                                        |
-|[![Responsive Gym Website](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=responsive-gym-website&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/responsive-gym-website)                  ||
+|                                                                                                                                                                                                                                                 |     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [![Jordan Shoes](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=jordanshoes&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/jordanshoes)                                 |
+| [![Responsive Gym Website](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=responsive-gym-website&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/responsive-gym-website) |     |
 
 ## ⚙️ &nbsp;Analize do Github
 
@@ -66,7 +67,6 @@ _**Abaixo estão as ferramentas que utilizo para trabalhar**_
 
 Clique para fazer contato:
 
-
 [![Linkdin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-santos-santana)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsstudentwork@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-738adb?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/911766406893281310)
@@ -74,4 +74,3 @@ Clique para fazer contato:
 ## Traduções
 
 [English](https://github.com/HenriqueSSan/HenriqueSSan) / [PT-BR](https://github.com/HenriqueSSan/HenriqueSSan/blob/main/README_pt-BR.md)
-
