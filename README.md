@@ -14,9 +14,9 @@
 
 ## My day to day
 
-- 🌱 Learning: Redux, GraphQL, VTEX CMS, VTEX
+- 🌱 Learning: Redux, GraphQL, VTEX CMS, VTEX IO
 - 🎯 Motivating phrase: "Success is going from failure to failure without losing enthusiasm." - Unknown
-- 📚 Ask me about: HTML, CSS, JavaScript, React.
+- 📚 Ask me about: HTML, CSS, JavaScript, React, Gulp.
 
 <br>
 <br>
