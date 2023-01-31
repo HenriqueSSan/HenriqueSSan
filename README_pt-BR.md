@@ -4,7 +4,6 @@
 
 # Oi, eu sou o Henrique Santos Santana
 
-- Eu sou um desenvolvedor com quase 1 ano de experiência no front-end.
 - Você está convidado a conhecer meus projetos e trabalhos pessoais sinta-se a vontade
 - Gosto de Tecnologia, Inovação, Jogos Eletronicos, Músicas.
 
