@@ -6,7 +6,6 @@
 
 # Hi, I'm Henrique Santos Santana
 
-- I'm a developer with almost 1 year of experience on the front end;
 - You are invited to know my projects and personal work, feel free;
 - I like technology, innovation, electronics and music.
 
