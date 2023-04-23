@@ -32,6 +32,8 @@ _**Abaixo estão as tecnologias que uso ou já usei**_
   <img align="center" alt="Henrique Santos Santana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Henrique Santos Santana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Henrique Santos Santana-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+    <img align="center" alt="Henrique Santos Santana-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+</div>
 </div>
 
 <br>
