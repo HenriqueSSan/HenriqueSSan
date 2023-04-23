@@ -11,9 +11,9 @@
 
 ## Meu dia a dia
 
-- 🌱 Aprendendo: Redux, GraphQL, VTEX CMS, VTEX
+- 🌱 Aprendendo: VTEX CMS, VTEX
 - 🎯 Frase motivadora: "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo." - Desconhecido
-- 📚 Pergunte para mim sobre: HTML, CSS, JavaScript, React.
+- 📚 Pergunte para mim sobre: HTML, CSS, JavaScript, React, Gulp, Redux, GraphQL, React, Nextjs
 
 <br>
 <br>
