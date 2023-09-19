@@ -1,3 +1,6 @@
+<img src="./Github - Cover-highlight.png"/>
+
+
 <div align="right"> 
     <img width="90" src="./logo.svg"/>
 </div>
