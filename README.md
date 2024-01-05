@@ -36,8 +36,11 @@ _**Below are the technologies I use**_
   <img align="center" alt="Henrique Santos Santana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henrique Santos Santana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Henrique Santos Santana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Henrique Santos Santana-React-Query" height="30" width="40" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
+  <img align="center" alt="Henrique Santos Santana-Svelte" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg">
   <img align="center" alt="Henrique Santos Santana-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-<img align="center" alt="Henrique Santos Santana-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Henrique Santos Santana-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Henrique Santos Santana-React-Query" height="30" width="40" src="https://cdn.svgporn.com/logos/react-query-icon.svg">
 </div>
 
 <br>
@@ -53,6 +56,7 @@ _**Below are the tools, I use for the job**_
   <img align="center" alt="Henrique Santos Santana-Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Henrique Santos Santana-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Henrique Santos Santana-Vite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
+  <img align="center" alt="Henrique Santos Santana-React-Query" height="30" width="40" src="https://cdn.svgporn.com/logos/notion-icon.svg">
 </div>
 
 <br>
