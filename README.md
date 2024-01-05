@@ -63,17 +63,11 @@ _**Below are the tools, I use for the job**_
 <br>
 <br>
 
-## 👨🏻‍💻&ensp; Projetcs and Works &ensp;👨🏻‍💻
-
-|                                                                                                                                                                                                                                                 |     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [![Jordan Shoes](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=jordanshoes&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/jordanshoes)                                 |[![Responsive Gym Website](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=onepage&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/onepage)
-| [![Responsive Gym Website](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=responsive-gym-website&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/responsive-gym-website) |     |
-
 ## ⚙️ &nbsp;Github Statistics
-
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HenriqueSSan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSSan&layout=compact&langs_count=9&theme=radical">
+<div style="display: inline_block">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSSan&layout=compact&langs_count=9&theme=radical">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HenriqueSSan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+</div>
 
 ## Contact
 
