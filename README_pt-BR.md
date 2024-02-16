@@ -4,15 +4,17 @@
 
 # Oi, eu sou o Henrique Santos Santana
 
-- Você está convidado a conhecer meus projetos e trabalhos pessoais sinta-se a vontade
-- Gosto de Tecnologia, Inovação, Jogos Eletronicos, Músicas.
+- Você está convidado a conhecer meus trabalhos sinta-se a vontade.
+- Tenho paixão por Tecnologia, Inovação, Jogos Eletronicos, Músicas.
 
 <br>
 
 ## Meu dia a dia
 
-- 🌱 Aprendendo: VTEX CMS, VTEX
-- 🎯 Frase motivadora: "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo." - Desconhecido
+- 🎯 Meta: Desenvolvedor Fullstack
+
+- 🌱 Aprendendo: Vue, Svelte, NodeJS, Java, UI/UX
+- 🎯 Frase motivadora: "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas, acima de tudo, seja você sempre." - Desconhecido
 - 📚 Pergunte para mim sobre: HTML, CSS, JavaScript, React, Gulp, Redux, GraphQL, React, Nextjs
 
 <br>
