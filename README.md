@@ -39,7 +39,7 @@ _**Below are the technologies I use**_
   <img align="center" title="NextJS" alt="Henrique Santos Santana-NextJS" height="30" width="40" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
   <img align="center" title="Svelte" alt="Henrique Santos Santana-Svelte" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg">
   <img align="center" title="Redux" alt="Henrique Santos Santana-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-  <img align="center" title="TailwindCSS" alt="Henrique Santos Santana-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" title="TailwindCSS" alt="Henrique Santos Santana-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" title="React Query" alt="Henrique Santos Santana-React-Query" height="30" width="40" src="https://cdn.svgporn.com/logos/react-query-icon.svg">
 </div>
 
