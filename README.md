@@ -1,5 +1,10 @@
 <img src="./Github - Cover-highlight.png"/>
 
+<div align="right">
+    <a title="View Portfolio" href="https://henriquessan-portfolio.vercel.app/">
+        <img src="https://img.shields.io/badge/View_Portfolio-7c0cb0?style=for-the-badge&logo=vercel&logoColor=white" />    
+    </a>
+</div>
 
 <div align="right"> 
     <img width="90" src="./logo.svg"/>
@@ -46,6 +51,22 @@ _**Below are the technologies I use**_
 <br>
 <br>
 
+_**Below are the technologies I use**_
+
+## 🛠 &nbsp; Back-end
+
+<div style="display: inline_block"><br>
+  <img align="center" title="Java" alt="Henrique Santos Santana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
+  <img align="center" title="Ruby" alt="Henrique Santos Santana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg">
+  <img align="center" title="Php" alt="Henrique Santos Santana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg"> 
+  <img align="center" title="Docker" alt="Henrique Santos Santana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" title="PostgreSQL" alt="Henrique Santos Santana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" title="NGINX" alt="Henrique Santos Santana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nginx/nginx-original.svg">
+</div>
+
+<br/>
+<br/>
+
 _**Below are the tools, I use for the job**_
 
 ## 🛠 &nbsp; Tools
@@ -74,7 +95,8 @@ _**Below are the tools, I use for the job**_
 
 Click for do contact:
 
-[![Linkdin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-santos-santana)
+[![Instagram](https://img.shields.io/badge/Instagram-fc1e6f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henry_ssan/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-santos-santana)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsstudentwork@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-738adb?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/911766406893281310)
 
