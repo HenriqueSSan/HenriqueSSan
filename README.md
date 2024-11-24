@@ -1,7 +1,7 @@
 <img src="./Github - Cover-highlight.png"/>
 
 <div align="right">
-    <a title="View Portfolio" href="https://henriquessan-portfolio.vercel.app/">
+    <a title="View Portfolio" href="https://henryssan.vercel.app/">
         <img src="https://img.shields.io/badge/View_Portfolio-7c0cb0?style=for-the-badge&logo=vercel&logoColor=white" />    
     </a>
 </div>
