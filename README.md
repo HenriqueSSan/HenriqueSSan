@@ -1,4 +1,4 @@
-<img src="./Github - Cover-highlight.png"/>
+<img src="./Github - Cover.png"/>
 
 <div align="right">
     <a title="View Portfolio" href="https://henryssan.vercel.app/">
