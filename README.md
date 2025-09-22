@@ -21,7 +21,6 @@
 
 ## My day to day
 
-- 🌱 Learning: Clean architecture, MVC concept, and others focus in back-end.
 - 🎯 Motivating phrase: "Success is going from failure to failure without losing enthusiasm." - Unknown
 - 📚 Ask me about: HTML, CSS, JavaScript, React, Gulp, Redux, GraphQL, React, Nextjs.
 
