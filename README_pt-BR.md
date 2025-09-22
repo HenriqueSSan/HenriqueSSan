@@ -14,8 +14,6 @@
 ## Meu dia a dia
 
 - 🎯 Meta: Desenvolvedor Fullstack
-
-- 🌱 Aprendendo: Vue, Svelte, NodeJS, Java, UI/UX
 - 🎯 Frase motivadora: "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas, acima de tudo, seja você sempre." - Desconhecido
 - 📚 Pergunte para mim sobre: HTML, CSS, JavaScript, React, Gulp, Redux, GraphQL, React, Nextjs
 
