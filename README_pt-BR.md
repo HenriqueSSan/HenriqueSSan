@@ -56,12 +56,6 @@ _**Abaixo estão as ferramentas que utilizo para trabalhar**_
 
 <br>
 
-## 👨🏻‍💻&ensp; Projetos e Trabalhos &ensp;👨🏻‍💻
-
-|                                                                                                                                                                                                                                                 |     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [![Jordan Shoes](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=jordanshoes&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/jordanshoes)                                 |[![Responsive Gym Website](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=onepage&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/onepage)
-| [![Responsive Gym Website](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSSan&repo=responsive-gym-website&bg_color=40,f72585,7209b7&title_color=fff&text_color=fff)](https://github.com/HenriqueSSan/responsive-gym-website) |     |
 
 ## ⚙️ &nbsp;Analize do Github
 
