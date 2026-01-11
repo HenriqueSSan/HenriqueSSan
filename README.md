@@ -90,7 +90,6 @@ _**Below are the tools, I use for the job**_
 
 Click for do contact:
 
-[![Instagram](https://img.shields.io/badge/Instagram-fc1e6f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henry_ssan/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-santos-santana)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsstudentwork@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-738adb?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/911766406893281310)
