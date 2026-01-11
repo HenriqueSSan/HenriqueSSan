@@ -79,10 +79,10 @@ _**Below are the tools, I use for the job**_
 <br>
 
 ## ⚙️ &nbsp;Github Statistics
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSSan&layout=compact&langs_count=9&theme=radical">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HenriqueSSan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-</div>
+</div> -->
 
 ## Contact
 
