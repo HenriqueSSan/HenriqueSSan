@@ -13,7 +13,7 @@
 
 ## Meu dia a dia
 
-- 🎯 Meta: Desenvolvedor Fullstack
+- 🎯 Meta: Desenvolvedor Front-end Sênior
 - 🎯 Frase motivadora: "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas, acima de tudo, seja você sempre." - Desconhecido
 - 📚 Pergunte para mim sobre: HTML, CSS, JavaScript, React, Gulp, Redux, GraphQL, React, Nextjs
 
@@ -56,11 +56,11 @@ _**Abaixo estão as ferramentas que utilizo para trabalhar**_
 
 <br>
 
-
+<!--
 ## ⚙️ &nbsp;Analize do Github
-
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HenriqueSSan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSSan&layout=compact&langs_count=9&theme=radical">
+-->
 
 ## Contato
 
