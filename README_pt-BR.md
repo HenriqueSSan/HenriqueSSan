@@ -42,16 +42,34 @@ _**Abaixo estão as tecnologias que uso ou já usei**_
 <br>
 <br>
 
-_**Abaixo estão as ferramentas que utilizo para trabalhar**_
+_**Abaixo estão as tecnologias que uso ou já usei**_
 
-## 🛠 &nbsp;Ferramentas
+## 🛠 &nbsp; Back-end
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Henrique Santos Santana-Webpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
-  <img align="center" alt="Henrique Santos Santana-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Henrique Santos Santana-Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Henrique Santos Santana-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Henrique Santos Santana-Vite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
+  <img align="center" title="Java" alt="Henrique Santos Santana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
+  <img align="center" title="Ruby" alt="Henrique Santos Santana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg">
+  <img align="center" title="Php" alt="Henrique Santos Santana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg"> 
+  <img align="center" title="Docker" alt="Henrique Santos Santana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" title="PostgreSQL" alt="Henrique Santos Santana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" title="NGINX" alt="Henrique Santos Santana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nginx/nginx-original.svg">
+</div>
+
+<br/>
+<br/>
+
+_**Abaixo estão as tecnologias que uso ou já usei**_
+
+## 🛠 &nbsp; Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" title="Webpack" alt="Henrique Santos Santana-Webpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
+  <img align="center" title="Git" alt="Henrique Santos Santana-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" title="VSCode" alt="Henrique Santos Santana-Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" title="Figma" alt="Henrique Santos Santana-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" title="Eslint" alt="Henrique Santos Santana-Vite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
+  <img align="center" title="Prettier" alt="Henrique Santos Santana-Vite" height="30" width="40" src="https://cdn.svgporn.com/logos/prettier.svg">
+  <img align="center" title="Notion" alt="Henrique Santos Santana-React-Query" height="30" width="40" src="https://cdn.svgporn.com/logos/notion-icon.svg">
 </div>
 
 <br>
