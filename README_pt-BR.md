@@ -10,10 +10,7 @@
 <br>
 
 ## Meu dia a dia
-
 - 🎯 Meta: Desenvolvedor Front-end Sênior
-- 🎯 Frase motivadora: "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas, acima de tudo, seja você sempre." - Desconhecido
-- 📚 Pergunte para mim sobre: HTML, CSS, JavaScript, React, Gulp, Redux, GraphQL, React, Nextjs
 
 <br>
 <br>
