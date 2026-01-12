@@ -14,7 +14,6 @@
 ## My day to day
 
 - 🎯 Motivating phrase: "Success is going from failure to failure without losing enthusiasm." - Unknown
-- 📚 Ask me about: HTML, CSS, JavaScript, React, Gulp, Redux, GraphQL, React, Nextjs.
 
 <br>
 <br>
