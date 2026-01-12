@@ -1,5 +1,3 @@
-<img src="./Github - Cover.png"/>
-
 <div align="right"> 
     <img width="90" src="./logo.svg"/>
 </div>
