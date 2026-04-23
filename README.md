@@ -11,7 +11,7 @@
 
 - 🎯 Motivating phrase: "Success is going from failure to failure without losing enthusiasm." - Unknown
 
-### 🛠 &nbsp;Front-end technologies
+### 🛠 &nbsp;Front-end
 
 HTML, CSS, Sass/Scss, Bootstrap, JQuery, JavaScript, TypeScript, React.Js, Next.Js, Sveltekit, Tailwind CSS, React Query, React Hook Form, Jest, Vitest.
 
