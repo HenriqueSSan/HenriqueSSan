@@ -11,35 +11,22 @@
 
 - 🎯 Motivating phrase: "Success is going from failure to failure without losing enthusiasm." - Unknown
 
-<br>
-<br>
-
-_**Below are the technologies I use**_
-
 ### 🛠 &nbsp;Front-end technologies
 
 HTML, CSS, Sass/Scss, Bootstrap, JQuery, JavaScript, TypeScript, React.Js, Next.Js, Sveltekit, Tailwind CSS, React Query, React Hook Form, Jest, Vitest.
 
 <br>
-<br>
-
-_**Below are the technologies I use**_
 
 ## 🛠 &nbsp; Back-end
 
 Node.js, Express.js, Nest.js, PostgreSQL, Nginx
 
-<br/>
-<br/>
-
-_**Below are the tools, I use for the job**_
+<br>
 
 ## 🛠 &nbsp; Tools
 
 Webpack, Vite, Git, Vs Code, Figma, Eslint, Prettier, Docker, Cypress, Swagger.
 
-<br>
-<br>
 <br>
 
 
