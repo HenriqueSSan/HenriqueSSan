@@ -46,4 +46,4 @@ Click for do contact:
 
 ## Translations
 
-[English](https://github.com/HenriqueSSan/HenriqueSSan) / [PT-BR](https://github.com/HenriqueSSan/HenriqueSSan/blob/main/README_pt-BR.md) -->
+[English](https://github.com/HenriqueSSan/HenriqueSSan) / [PT-BR](https://github.com/HenriqueSSan/HenriqueSSan/blob/main/README_pt-BR.md)
